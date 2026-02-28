@@ -1,4 +1,9 @@
-# My Python & AI Portfolio
+AI-Portfolio
+AI, Economics, and Infrastructure learning portfolio
+
+AI Portfolio
+This repository documents my journey in AI, Economics, and Infrastructure, following a structured 24-month roadmap.
+
 
 Hi! I'm Milumbu, a Python learner and aspiring AI/ML developer.  
 This portfolio showcases my Codewars solutions, personal Python projects, and AI/ML experiments.
@@ -13,29 +18,9 @@ This portfolio showcases my Codewars solutions, personal Python projects, and AI
 
 ---
 
-## Codewars Solutions
-Organized by difficulty:
-
-- **8 kyu**: Basic Python practice
-- **7 kyu**: Intermediate challenges
-- **6 kyu**: Advanced problem-solving
-
-📁 Folder: `python/`
-
----
-
-## Projects
-These are my personal projects demonstrating applied Python, AI, and data skills:
-
-
----
-
-## Skills
-- Python (basics → intermediate)
-
----
-
 ## Contact
 - GitHub: [github.com/yourusername](https://github.com/myilumbu-glitch)
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+- Week 1: Environment setup and professional foundations.
 
